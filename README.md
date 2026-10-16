@@ -8,7 +8,8 @@ Azalea is not a modloader, for that please use [tModLoader](https://github.com/t
 
 Azalea is not a cheat client, it's main focus is adding new features and optimizations, not cheats.
 
-Features:
+# Features
+
 Some small optimizations
 
 Some tModLoader mods ported. (open source ones only!)
@@ -21,7 +22,8 @@ Discord Rich Presence.
 
 and way more!
 
-Q&A
+# Q&A
+
 Q: When will Azalea be public?
 
 A: Not sure, I don't want to promise a release date if it takes longer then expected.
@@ -46,4 +48,5 @@ Q: What will the project be licensed under?
 
 A: Most likely GPLv2 or GPLv3.
 
+---
 For regular updates and a community to chat with, join Azalea's discord server: https://discord.gg/gKRfVKZCuj
