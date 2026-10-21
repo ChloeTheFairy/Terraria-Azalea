@@ -53,6 +53,7 @@ Q: What version of the game is the client gonna be on?
 A: The latest version of the game. (1.4.5.8)
 
 Q: What is left to be finished before a public release?
+
 A: Mostly UI, other polish is being made too though.
 
 ---
