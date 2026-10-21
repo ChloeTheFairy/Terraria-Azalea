@@ -30,7 +30,7 @@ A: Not sure, I don't want to promise a release date if it takes longer then expe
 
 Q: Is Azalea a cheat client?
 
-A: No, Azalea only makes changes that add additional quality of life and nothing that affects gameplay.
+A: No, Azalea only makes changes that are client side only and don't effect gameplay.
 
 Q: Will the source code be available when Azalea publicly releases?
 
@@ -46,7 +46,10 @@ A: Yes, I don't plan to drop the project right after public release.
 
 Q: What will the project be licensed under?
 
-A: Most likely GPLv2 or GPLv3.
+A: GPLv3.
+
+Q: What version of the game is the client gonna be on?
+A: The latest version of the game. (1.4.5.8)
 
 ---
 For regular updates and a community to chat with, join Azalea's discord server: https://discord.gg/gKRfVKZCuj
