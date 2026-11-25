@@ -50,11 +50,11 @@ A: GPLv3.
 
 Q: What version of the game is the client gonna be on?
 
-A: The latest version of the game. (1.4.5.8)
+A: The latest version of the game. (1.4.6.1)
 
 Q: What is left to be finished before a public release?
 
-A: Mostly UI, other polish is being made too though.
+A: A first start UI, a credits system, credits UI and potentially configuration profiles.
 
 ---
 For regular updates and a community to chat with, join Azalea's discord server: https://discord.gg/gKRfVKZCuj
